@@ -132,6 +132,31 @@ REGISTER PAGE
 </body>
 </html>
 ```
+SUCCESSFUL PAGE
+```
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Confirmation</title>
+  <style>
+    body{ font-family:Arial; padding:40px; background:#eef; }
+    .box{ width:400px; margin:auto; background:white; padding:20px; border-radius:10px; text-align:center; }
+    h2{ color:#28a745; }
+  </style>
+</head>
+<body>
+
+<div class="box">
+  <h2>Registration Successful!</h2>
+  <p>Your registration has been submitted successfully.</p>
+  <p>Check your email for confirmation details.</p>
+  <a href="events.html">Back to Events</a>
+</div>
+
+</body>
+</html>
+```
+
 
 ## OUTPUT:
 ![alt text](<Screenshot 2025-11-16 205000.png>)
@@ -139,6 +164,8 @@ REGISTER PAGE
 ![alt text](<Screenshot 2025-11-16 205013.png>)
 
 ![alt text](<Screenshot 2025-11-16 205025.png>)
+
+![alt text](<Screenshot 2025-11-16 205147.png>)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
