@@ -133,7 +133,10 @@ REGISTER PAGE
 </html>
 ```
 SUCCESSFUL PAGE
+
 ```
+
+
 <!DOCTYPE html>
 <html>
 <head>
